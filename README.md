@@ -5,6 +5,7 @@ CTM's Web Services team works on many projects related to open data, including:
 - Drafting documents for an [Open Data Manual](https://github.com/cityofaustin/open-data-manual)
 - ... and more!
 
-This repo is about keeping track of the "more" stuff. 
+This repo is for keeping track of the ["more" stuff](https://github.com/cityofaustin/open-data-consults/issues).
 
-## [click here for lists and projects](https://github.com/cityofaustin/open-data-consults/issues)
+We've also created a new experimental view with items from all of our open data project repos!
+### [Open data waffle board at CTM Web Services](https://waffle.io/cityofaustin/open-data-consults)
