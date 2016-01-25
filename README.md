@@ -2,7 +2,7 @@
 CTM's Web Services team works on many projects related to open data, including:
 - Receiving and tracking [new open dataset suggestions](https://github.com/cityofaustin/open-data-suggestions)
 - Helping departments create and [publish new datasets](https://github.com/cityofaustin/open-data-pipeline)
-- Drafting documents for an [Open Data Manual](https://github.com/cityofaustin/open-data-manual)
+- Drafting documents for an [open data manual](https://github.com/cityofaustin/open-data-docs)
 - ... and more!
 
 This repo is for keeping track of the ["more" stuff](https://github.com/cityofaustin/open-data-consults/issues).
