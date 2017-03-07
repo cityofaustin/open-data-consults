@@ -7,5 +7,5 @@ CTM's Web Services team works on many projects related to open data, including:
 
 This repo is for keeping track of the ["more" stuff](https://github.com/cityofaustin/open-data-consults/issues).
 
-We've also created a new experimental view with items from all of our open data project repos!
+We created an experimental view with items from all of our open data project repos... sort of old now, but still a cool proof of concept:
 ### [Open data waffle board at CTM Web Services](https://waffle.io/cityofaustin/open-data-consults)
