@@ -59,13 +59,10 @@ In 2016, the Open Data Manual was created to demonstrate ideas for organizing im
 
 
 
-## Wrap Up (to be completed)
-
-
-| Accepted by | [name goes here] | on [date goes here] |
-|---|---|---|
-
+## Wrap Up
 
 ### Did the project deliver as expected? 
+Yes, all files were migrated as requested and are currently up on the new training site 
 
-### What are the next steps? 
+### What are the next steps? 
+None, this project is considered complete
